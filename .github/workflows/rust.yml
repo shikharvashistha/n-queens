@@ -24,6 +24,8 @@ jobs:
             os: windows-latest
           - rust: stable-i686-msvc
             os: windows-latest
+          - rust: stable-x86_64-pc-windows-msvc
+            os: windows-latest
           - rust: beta
             os: ubuntu-latest
           - rust: nightly
