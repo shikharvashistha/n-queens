@@ -1,0 +1,2 @@
+# nQueens
+n-queens problem
